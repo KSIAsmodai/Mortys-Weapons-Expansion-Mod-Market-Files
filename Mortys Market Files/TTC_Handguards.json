@@ -1,0 +1,108 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TTC Handguards",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TTC_AKMod_Hndguard",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_AKMod_Snow_Hndguard",
+                "TTC_AKMod_Multi_Hndguard",
+                "TTC_AKMod_Digi_Hndguard",
+                "TTC_AKMod_Tan_Hndguard",
+                "TTC_AKMod_Gold_Hndguard"
+            ]
+        },
+        {
+            "ClassName": "TTC_DMR_Hndguard",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_DMR_HndguardDesert",
+                "TTC_DMR_HndguardOD",
+                "TTC_DMR_HndguardSnow",
+                "TTC_DMR_Hndguard_SLR"
+            ]
+        },
+        {
+            "ClassName": "TTC_FAL_RIS_Hndgrd",
+            "MaxPriceThreshold": 420,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_FAL_Wood_Hndgrd",
+                "TTC_FAL_Poly_Hndgrd"
+            ]
+        },		
+        {
+            "ClassName": "TTC_CAR15V2_PlasticHndgrd",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMOD_AFG",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_AFG",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_DMR_AFG_Green",
+                "TTC_DMR_AFG_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_DMR_VFG",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_DMR_VFG_Green",
+                "TTC_DMR_VFG_Tan"
+            ]
+        }		
+    ]
+}
+

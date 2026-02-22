@@ -1,0 +1,140 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TTC Sniper Rifles",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TTC_AWM",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 9600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_FD338",
+            "MaxPriceThreshold": 6600,
+            "MinPriceThreshold": 5280,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M110",
+            "MaxPriceThreshold": 6600,
+            "MinPriceThreshold": 5280,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M110_Black"
+            ]
+        },
+        {
+            "ClassName": "TTC_M24",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 4800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M24_Bjorn",
+                "TTC_M24_Woodland",
+                "TTC_M24_WoodlandOld"
+            ]
+        },
+        {
+            "ClassName": "TTC_M24_NEW_Wood",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 4800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M24_NEW_Black",
+                "TTC_M24_NEW_Camo",
+                "TTC_M24_NEW_CamoW"
+            ]
+        },
+        {
+            "ClassName": "TTC_M82",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 9600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M82_Tan",
+                "TTC_M82_gold"
+            ]
+        },
+        {
+            "ClassName": "TTC_MRAD",
+            "MaxPriceThreshold": 6600,
+            "MinPriceThreshold": 5280,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_R700",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1440,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_R700_Black"
+            ]
+        },
+        {
+            "ClassName": "TTCSR25",
+            "MaxPriceThreshold": 6600,
+            "MinPriceThreshold": 5280,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTCSR25_Desert",
+                "TTCSR25_Snow",
+                "TTCSR25_OD"
+            ]
+        },
+        {
+            "ClassName": "TTC_XM2010",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 9600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
+

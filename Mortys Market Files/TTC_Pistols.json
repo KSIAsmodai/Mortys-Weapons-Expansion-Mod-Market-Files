@@ -1,0 +1,107 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TTC Pistols",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TTC_Glock17",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 510,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Kimber",
+            "MaxPriceThreshold": 5390,
+            "MinPriceThreshold": 3235,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_P320",
+            "MaxPriceThreshold": 1230,
+            "MinPriceThreshold": 735,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_44Magnum",
+            "MaxPriceThreshold": 390,
+            "MinPriceThreshold": 235,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_44Magnum_Black"
+            ]
+        },
+        {
+			"ClassName": "TTC_Deagle",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold": 3600,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": ["TTC_Deagle_Gold"]
+		},
+        {
+            "ClassName": "TTC_M9",
+            "MaxPriceThreshold": 7800,
+            "MinPriceThreshold": 4600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M9_Tan_Slide",
+                "TTC_M9_White_Slide",
+                "TTC_M9_Blue_Slide",
+                "TTC_M9_Red_Slide",
+                "TTC_M9_Gold_Grip"
+            ]
+        },
+        {
+            "ClassName": "TTC_M9_Custom",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_44Mag_Ejector",
+            "MaxPriceThreshold": 610,
+            "MinPriceThreshold": 365,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
+

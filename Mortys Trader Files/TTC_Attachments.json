@@ -1,0 +1,34 @@
+{
+    "m_Version": 13,
+    "DisplayName": "TTC Attachments",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 0,
+    "Categories": [
+        "TTC_Bayonets",
+		"TTC_Buttstocks",
+		"TTC_Magazines",
+		"TTC_Muzzles",
+		"TTC_Handguards",
+		"TTC_Optics",
+		"TTC_Bipods",
+		"Magazines",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards"
+    ],
+    "Items": {
+        "universallight": 1,
+        "tlrlight": 1
+    }
+}
