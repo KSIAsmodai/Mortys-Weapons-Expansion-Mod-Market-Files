@@ -1,6 +1,6 @@
 Files needed for Trader & Market to sell Mortys Weapons in Expansion Market
 
-The Trader files have SNAFU product as well as Expansion categories available. If you only want them to sell Mortys Weapons just remove any item in the categories that does not have TTC_ in front of it. 
+The Trader files have Mortys Weapons product as well as Expansion categories available. If you only want them to sell Mortys Weapons just remove any item in the categories that does not have TTC_ in front of it. 
 I suggest keeping it as is though. If you do edit these - before you upload to your server RUN YOUR FILE THROUGH A JSON CHECKER when you are done editing. https://jsonformatter.org/
 
 These are priced via Grok using real world criteria plus a premium for the Post Apocalyptic scenario DayZ presents. Everything for the most part takes into account what other similar things cost. The reasoning behind this is to avoid having a 
